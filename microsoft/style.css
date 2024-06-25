@@ -335,6 +335,7 @@ body {
 }
 .findplan{
     width: auto;
+    overflow:wrap;
 }
 .head {
     font-weight: 600;
